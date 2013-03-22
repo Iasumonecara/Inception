@@ -164,6 +164,6 @@ pip-log.txt
 
 
 #My shtuff.
-minecraftforge
-!minecraftforge/forge/mcp/eclipse/minecraft/bin/iasumonecara/DelveDeeper/
+/minecraftforge/*
+!/minecraftforge/forge/mcp/eclipse/minecraft/bin/iasumonecara/Inception/
 

@@ -163,7 +163,56 @@ pip-log.txt
 .DS_Store
 
 
-#My shtuff.
-/minecraftforge/*
-!/minecraftforge/forge/mcp/eclipse/minecraft/bin/iasumonecara/Inception/
+#My shtuff. Working I hope...
+/forge/mcp/bin/*
+/forge/mcp/conf/*
+/forge/mcp/docs/*
+/forge/mcp/eclipse/*
+/forge/mcp/forge/*
+/forge/mcp/jars/*
+/forge/mcp/lib/*
+/forge/mcp/logs/*
+/forge/mcp/modsrc/*
+/forge/mcp/reobf/*
+/forge/mcp/runtime/*
+/forge/mcp/temp/*
+/forge/common/net/minecraftforge/*
+/forge/fml/*txt
+/forge/fml/client/cpw
+/forge/mcp/src/minecraft/*
+/forge/mcp/src/minecraft_server/*
+/forge/fml/patches/*
+/forge/mcp/src/common/*
+/forge/patches/*
+/forge/fml/*
+!/forge/mcp/src/common/mcmod.info
+!/forge/mcp/src/common/SP.png
 
+*.bat
+*.sh
+
+#Personally Added
+/bin/*
+/conf/*
+/docs/*
+/eclipse/*
+/forge/*
+/jars/*
+/lib/*
+/logs/*
+/modsrc/*
+/reobf/*
+/runtime/*
+/temp/*
+
+/src/minecraft/*
+/src/minecraft_server/*
+/src/common/*
+CHANGELOG*.*
+LICENSE.txt
+!/src/minecraft/iasumonecara/
+!/src/minecraft/mcmod.info
+!/src/minecraft/SP.png
+
+*.bat
+*.sh

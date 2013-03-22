@@ -210,7 +210,7 @@ pip-log.txt
 /src/common/*
 CHANGELOG*.*
 LICENSE.txt
-!/src/minecraft/iasumonecara/
+!/src/minecraft/iasumonecara/Inception/
 !/src/minecraft/mcmod.info
 !/src/minecraft/SP.png
 
